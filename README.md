@@ -3,7 +3,7 @@
   Para copiar o código em HTML:
 ```
 <html>
-  <h1>Meu primeiro arquivo HTML, hehehe</h1>   
+  <h1>Meu primeiro arquivo HTML coisa boa</h1>   
 </html>
 ```
 
